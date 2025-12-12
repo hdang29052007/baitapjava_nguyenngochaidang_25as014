@@ -1,7 +1,7 @@
 package baitap_oop.bai7.ex71;
 
-import bai7.ex71.Customer;
-import bai7.ex71.Discount;
+import baitap_oop.bai7.ex71.Customer;
+import baitap_oop.bai7.ex71.Discount;
 
 import java.util.Date;
 

@@ -1,7 +1,8 @@
 package baitap_oop.bai7.ex72;
 
-import bai7.ex72.Point;
-import bai7.ex72.Polyline;
+
+import baitap_oop.bai7.ex72.Point;
+import baitap_oop.bai7.ex72.Polyline;
 
 public class Main {
     public static void main(String[] args) {
